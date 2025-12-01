@@ -11,10 +11,10 @@ function AboutCard() {
             Hi everyone! I’m <span className="purple">Siphosethu Rululu</span>{" "}
             from <span className="purple">South Africa</span>.
             <br />
-            I’m currently working as a{" "}
-            <span className="purple">Software Engineer</span>.
-            <br />I hold a degree in{" "}
-            <span className="purple">Computer Science / Software Engineering</span>.
+            I have certificates in{" "}
+            <span className="purple">
+              Data Science, Business Administration, and Accounting Science
+            </span>.
             <br />
             <br />
             Outside of coding, I love engaging in activities that keep me
