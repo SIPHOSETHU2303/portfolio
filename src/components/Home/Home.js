@@ -3,11 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import Particle from "../Particle";
 import Home2 from "./Home2";
 import Type from "./Type";
-import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
-} from "react-icons/ai";
+import { AiFillGithub } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 
 function Home() {
@@ -60,31 +56,12 @@ function Home() {
               </li>
               <li className="social-icons">
                 <a
-                  href="https://github.com/SIPHOSETHU2303"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
-                  href="https://github.com/SIPHOSETHU2303"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour home-social-icons"
-                >
-                  <FaLinkedinIn />
-                </a>
-              </li>
-              <li className="social-icons">
-                <a
                   href="https://www.linkedin.com/in/siphosethu-rululu/"
                   target="_blank"
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
+                  <FaLinkedinIn />
                 </a>
               </li>
             </ul>
@@ -96,3 +73,4 @@ function Home() {
 }
 
 export default Home;
+
