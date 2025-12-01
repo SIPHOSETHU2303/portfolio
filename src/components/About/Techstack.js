@@ -50,11 +50,6 @@ function Techstack() {
       </Col>
 
       <Col xs={4} md={2} className="tech-icons">
-        <img src={Docker} alt="Docker" />
-        <div className="tech-icons-text">Docker</div>
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
         <img src={SQL} alt="PostgreSQL" />
         <div className="tech-icons-text">PostgreSQL</div>
       </Col>
@@ -72,16 +67,6 @@ function Techstack() {
       <Col xs={4} md={2} className="tech-icons">
         <img src={Postman} alt="Postman" />
         <div className="tech-icons-text">Postman</div>
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <FaRust fontSize={"24px"} />
-        <div className="tech-icons-text">Rust</div>
-      </Col>
-
-      <Col xs={4} md={2} className="tech-icons">
-        <img src={AWS} alt="AWS" />
-        <div className="tech-icons-text">AWS</div>
       </Col>
 
     </Row>
