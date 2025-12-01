@@ -11,7 +11,10 @@ function AboutCard() {
             Hi everyone! I’m <span className="purple">Siphosethu Rululu</span>{" "}
             from <span className="purple">South Africa</span>.
             <br />
-            I have certificates in{" "}
+            I’m currently working as a{" "}
+            <span className="purple">Software Engineer</span>.
+            <br />
+            I hold certificates in{" "}
             <span className="purple">
               Data Science, Business Administration, and Accounting Science
             </span>.
@@ -34,7 +37,7 @@ function AboutCard() {
           </ul>
 
           <p style={{ color: "rgb(155 126 172)" }}>
-            "Strive to build things that make a difference!"{" "}
+            "Strive to build things that make a difference!"
           </p>
           <footer className="blockquote-footer">Siphosethu</footer>
         </blockquote>
