@@ -65,7 +65,7 @@ function Home() {
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiOutlineTwitter />
+
                 </a>
               </li>
               <li className="social-icons">
@@ -85,7 +85,6 @@ function Home() {
                   rel="noreferrer"
                   className="icon-colour home-social-icons"
                 >
-                  <AiFillInstagram />
                 </a>
               </li>
             </ul>
