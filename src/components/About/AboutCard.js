@@ -11,7 +11,7 @@ function AboutCard() {
             Hi everyone! I’m <span className="purple">Siphosethu Rululu</span>{" "}
             from <span className="purple">South Africa</span>.
             <br />
-            I’m currently working as a{" "}
+            I’m currently working as a{"software Engineer"}
             <span className="purple">Software Engineer</span>.
             <br />
             I hold certificates in{" "}
