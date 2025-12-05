@@ -4,22 +4,16 @@
     "main.js": "/static/js/main.fd9ee711.js",
     "static/js/453.ace21015.chunk.js": "/static/js/453.ace21015.chunk.js",
 
-    "static/media/leaf.png": "/static/media/leaf.ff2616f664c8c0ceab91.png",
-    "static/media/emotion.png": "/static/media/emotion.eabfc16e7a146ab15778.png",
-    "static/media/suicide.png": "/static/media/suicide.9c86cd7138a398c45fa5.png",
-    "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
+     "static/media/codeEditor.png": "/static/media/codeEditor.1b585492490c8c1cace9.png",
     "static/media/blog.png": "/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/home-main.svg": "/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/chatify.png": "/static/media/chatify.7206044e0b5cdad44726.png",
-
     "static/media/SIPHOSETHU_RULULU.pdf": "/static/media/SIPHOSETHU_RULULULU.0a483621860835f0c118.pdf",
-
     "static/media/avatar.svg": "/static/media/avatar.5852f40fbb38aa284829fa3fb7722225.svg",
     "static/media/go.svg": "/static/media/go.9a9bf59ea453fc0e3ec82471b0c300ab.svg",
     "static/media/SQL.svg": "/static/media/SQL.7fd9bdcee9744b3b731709f2753c68af.svg",
     "static/media/Mongo.svg": "/static/media/Mongo.2c5a056ee9abf56973ee685904548bb8.svg",
-
     "static/media/React.svg": "/static/media/React.fa17b44468fe3c157fc20898567de2b4.svg",
     "static/media/Python.svg": "/static/media/Python.9daed22c470296a63e19d0d509a1828b.svg",
     "static/media/Javascript.svg": "/static/media/Javascript.dcff0bf09e6c5ffc3eaea9cc7ec4c8f5.svg",
@@ -27,7 +21,6 @@
     "static/media/Git.svg": "/static/media/Git.9fbdd94cab5e68fd45b434fd29b1bb5e.svg",
     "static/media/Tailwind.svg": "/static/media/Tailwind.24603c32961e3bfa937c29527c7931cb.svg",
     "static/media/Node.svg": "/static/media/Node.4ccf66deab4cce38fa6a744e962daa9f.svg",
-
     "static/media/Express.svg": "/static/media/Express.81f22ds882sa90dsad92.svg",
     "static/media/OpenAPI.svg": "/static/media/OpenAPI.88dbb21e92edc88273a.svg",
     "static/media/PostgreSQL.svg": "/static/media/PostgreSQL.7as9220dsad09asd12a.svg",
