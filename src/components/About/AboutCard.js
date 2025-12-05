@@ -7,11 +7,11 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "justify", marginBottom: "0" }}>
             Hi everyone! I’m <span className="purple">Siphosethu Rululu</span>{" "}
             from <span className="purple">South Africa</span>.
             <br />
-            I’m currently working as a{"software Engineer"}
+            I’m currently working as a{" "}
             <span className="purple">Software Engineer</span>.
             <br />
             I hold certificates in{" "}
@@ -20,11 +20,16 @@ function AboutCard() {
             </span>.
             <br />
             <br />
-            Outside of coding, I love engaging in activities that keep me
-            creative and inspired:
+            I am passionate about building digital solutions, improving user
+            experience, and learning technologies that make life easier.
           </p>
 
-          <ul>
+          <p style={{ textAlign: "justify", marginTop: "10px" }}>
+            My journey in tech is built on curiosity, continuous learning, and
+            the desire to bring ideas to life through meaningful software.
+          </p>
+
+          <ul style={{ marginTop: "10px" }}>
             <li className="about-activity">
               <ImPointRight /> Building Projects 💻
             </li>
