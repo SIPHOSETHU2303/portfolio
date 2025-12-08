@@ -33,7 +33,7 @@ It also serves as a central place where visitors can:
 * **HTML**
 * **CSS**
 * **JavaScript**
-* **React** (if your project uses it)
+* **React** 
 * **Vercel** for deployment
 
 ---
